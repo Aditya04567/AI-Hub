@@ -1,4 +1,4 @@
-# AI Hub Flutter App
+# (TechAdi) AI Hub Flutter App
 
 Welcome to the AI Hub Flutter application repository! This mobile app is designed to be a comprehensive platform for exploring AI tools, engaging in community discussions, and performing calculations with a built-in calculator. The app features user authentication, a slider screen showcasing AI tools, and various pages for seamless navigation.
 
@@ -108,6 +108,4 @@ Explore the various functionalities of the app, navigate through different scree
 
 Contributions are welcome! If you have suggestions, improvements, or additional features to add, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
