@@ -1,0 +1,323 @@
+{
+   "checksum": "b280cafd08330ef0c5d85b3e6f6247ce",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13280945289677474",
+            "date_last_used": "0",
+            "guid": "9d3a9454-ec2b-4504-9691-9807f4da382d",
+            "id": "7",
+            "name": "Physics Wallah",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://study.physicswallah.live/tabs/tabs/batch-tab/6133adb6beb299006d0a9fb8/batch-subjects/6133adb76715ba025cce27c9/batch-subject-details"
+         }, {
+            "date_added": "13307798055209828",
+            "date_last_used": "0",
+            "guid": "33b86f95-4de6-4a0a-bf20-8357b7925e96",
+            "id": "8",
+            "name": "Document 1.docx - Microsoft Word Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://onedrive.live.com/edit.aspx?resid=EEB80720E5F0459E!182&cid=504317ac-2730-4175-80c2-1909d58e228d&ithint=file%2cdocx&wdOrigin=OFFICECOM-WEB.MAIN.REC"
+         }, {
+            "date_added": "13304445957240131",
+            "date_last_used": "13325840907559928",
+            "guid": "a4954db1-0a59-46dd-abf6-83f47d10dd69",
+            "id": "9",
+            "name": "Inbox (2,910) - agrawaladitya186@gmail.com - Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13307867422828734",
+            "date_last_used": "0",
+            "guid": "685de910-1885-4aaa-a759-9d2b09a07135",
+            "id": "10",
+            "name": "Home - Delhi University",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.du.ac.in/"
+         }, {
+            "date_added": "13308215188990521",
+            "date_last_used": "0",
+            "guid": "c0e9fc24-f58c-4a1f-b488-ef2293a2de16",
+            "id": "11",
+            "name": "Banaras Hindu University : Entrance Exam",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://bhuonline.in/"
+         }, {
+            "date_added": "13313201653486991",
+            "date_last_used": "0",
+            "guid": "2f670a48-0f08-486b-9fb2-b4ff10ba466d",
+            "id": "12",
+            "name": "Amazon.in Associates Central - Associates SiteStripe Options",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://affiliate-program.amazon.in/home/textlink/sitestripe?ref=assoc_redirect_from_productlinks"
+         }, {
+            "date_added": "13311034022764134",
+            "date_last_used": "0",
+            "guid": "20da1cdf-61ad-4a8d-a064-e25b27bb42b1",
+            "id": "13",
+            "name": "Simplecpp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cse.iitb.ac.in/~ranade/simplecpp/"
+         }, {
+            "date_added": "13311035368472906",
+            "date_last_used": "0",
+            "guid": "3d190ddc-dcdb-45a9-bd04-e1e8244a3442",
+            "id": "14",
+            "name": "CS 101 Computer Programming and Utilization: IIT Bombay",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cse.iitb.ac.in/~cs101/2011.1/"
+         }, {
+            "date_added": "13311035459902085",
+            "date_last_used": "0",
+            "guid": "f08544fc-e31a-4cb9-9d20-f137666cea7a",
+            "id": "15",
+            "name": "COURSE INFORMATION",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://portal.iitb.ac.in/asc/Courses"
+         }, {
+            "date_added": "13311035490743906",
+            "date_last_used": "0",
+            "guid": "42a47255-381b-43ee-977e-86c09c8833ea",
+            "id": "16",
+            "name": "Enable Hindi Inscript Keyboard in Windows 11, 10, 8, 7, XP | Type in Hindi Inscript Keyboard",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.indiatyping.com/index.php/typing-tips/devnagari-hindi-inscript-keyboard"
+         }, {
+            "date_added": "13311545208560716",
+            "date_last_used": "0",
+            "guid": "164f9a5b-0fb5-4c10-a5e3-82f75d4e0874",
+            "id": "17",
+            "name": "vsdc free video editor - Yahoo India Search Results",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://in.search.yahoo.com/search;_ylt=Awr1Tig2cF1jr5otLUW7HAx.;_ylc=X1MDMjExNDcyMzAwMwRfcgMyBGZyA21jYWZlZQRmcjIDc2EtZ3Atc2VhcmNoBGdwcmlkA2xYNmhMOTlCUlN1LjFuMlY3aXdSVUEEbl9yc2x0AzAEbl9zdWdnAzEwBG9yaWdpbgNpbi5zZWFyY2gueWFob28uY29tBHBvcwMyBHBxc3RyA3ZzZARwcXN0cmwDMwRxc3RybAMyMgRxdWVyeQN2c2RjJTIwZnJlZSUyMHZpZGVvJTIwZWRpdG9yBHRfc3RtcAMxNjY3MDcxNTIzBHVzZV9jYXNlAw--?p=vsdc+free+video+editor&fr2=sa-gp-search&fr=mcafee&vm=r&type=E211IN885G0"
+         }, {
+            "date_added": "13312367184483784",
+            "date_last_used": "0",
+            "guid": "5501f2e8-f830-41e1-bb97-94c2094ce04b",
+            "id": "18",
+            "name": "Remove Watermark - Upload Images to remove translucent watermarks - Watermarkremover.io",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.watermarkremover.io/upload"
+         }, {
+            "date_added": "13313872738592278",
+            "date_last_used": "0",
+            "guid": "9d863379-a55d-43ef-b5b4-d7cfa711a6d9",
+            "id": "19",
+            "name": "Blogger: Posts",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.blogger.com/u/1/blog/posts/7494017937813730159"
+         }, {
+            "date_added": "13316534213754277",
+            "date_last_used": "0",
+            "guid": "814bf102-601b-4662-a642-895d2008af5c",
+            "id": "20",
+            "name": "New tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "date_added": "13323101667695474",
+            "date_last_used": "0",
+            "guid": "3deed646-7c2a-45f8-b451-7641da6a35c7",
+            "id": "21",
+            "name": "dd.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/aditya%20agrawal/Documents/dd.pdf"
+         }, {
+            "date_added": "13313256054306928",
+            "date_last_used": "0",
+            "guid": "4abe23a7-a096-4842-92e2-c5c2b69c8a45",
+            "id": "22",
+            "name": "Google Trends",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://trends.google.com/trends/?geo=US"
+         }, {
+            "date_added": "13318021480881185",
+            "date_last_used": "0",
+            "guid": "2f399034-40ff-4b05-af46-69dad1ff3caf",
+            "id": "23",
+            "name": "Spring Launcher",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://teespring.com/design-launcher"
+         }, {
+            "date_added": "13318195330743261",
+            "date_last_used": "0",
+            "guid": "391247c0-71f7-4f01-bdd3-7dbe1e1af261",
+            "id": "24",
+            "name": "Dashboard - Instamojo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instamojo.com/dashboard"
+         }, {
+            "date_added": "13318195694861835",
+            "date_last_used": "0",
+            "guid": "2879720b-33ea-47a4-a928-ec15f3ec2335",
+            "id": "25",
+            "name": "Log In • Snapchat",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.snapchat.com/accounts/login?continue=%2Faccounts%2Fsso%3Freferrer%3Dhttps%253A%252F%252Fweb.snapchat.com%252F%253Fref%253Dweb_nav_login_button%2526lang%253Den-US%26client_id%3Dweb-calling-corp--prod"
+         }, {
+            "date_added": "13318238693096782",
+            "date_last_used": "0",
+            "guid": "db6f78de-5b3d-40cf-98bb-084e52192e8d",
+            "id": "26",
+            "name": "Amazon.com. Spend less. Smile more.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.amazon.com/?_encoding=UTF8&ref_=nav_ya_signin&"
+         }, {
+            "date_added": "13318523586336913",
+            "date_last_used": "0",
+            "guid": "0cb7c9bf-2a03-4c4c-82f7-732547f32cab",
+            "id": "27",
+            "name": "Amazon Merch on Demand",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://merch.amazon.com/manage/designs"
+         }, {
+            "date_added": "13319145008836730",
+            "date_last_used": "0",
+            "guid": "2330a1c8-6d81-404d-8f06-50b29421faea",
+            "id": "28",
+            "name": "Your Shop - Manage Listings - Etsy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.etsy.com/your/shops/TechAdi/tools/listings?ref=seller-platform-mcnav"
+         }, {
+            "date_added": "13320781346297634",
+            "date_last_used": "0",
+            "guid": "0caf6f66-6b5c-443f-8c79-c9248f4075dd",
+            "id": "29",
+            "name": "FAVPNG.com - Free Transparent PNG Images",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://favpng.com/"
+         }, {
+            "date_added": "13321361770247846",
+            "date_last_used": "0",
+            "guid": "0e252bbb-71fe-4ce1-9043-55331559cb1a",
+            "id": "30",
+            "name": "Top Keywords on Etsy (US) - eRank",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://erank.com/trend-buzz/etsy/us/daily"
+         }, {
+            "date_added": "13325975542710812",
+            "date_last_used": "0",
+            "guid": "0e63541a-f871-46ae-a3bb-271135dd9652",
+            "id": "31",
+            "name": "Linktree Admin",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://linktr.ee/admin"
+         }, {
+            "date_added": "13326147622946062",
+            "date_last_used": "0",
+            "guid": "49779fed-b645-4db6-8ea8-ae06e4f5b2ea",
+            "id": "32",
+            "name": "User Home",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.idplr.com/dashboard"
+         }, {
+            "date_added": "13332062402584719",
+            "date_last_used": "0",
+            "guid": "ae1714d7-1070-4bbb-ac92-3b0c39a84e3b",
+            "id": "33",
+            "name": "Microsoft Designer - Stunning designs in a flash",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://designer.microsoft.com/"
+         }, {
+            "date_added": "13339840100572269",
+            "date_last_used": "0",
+            "guid": "84de82cf-ed64-4576-a192-85fce60c6977",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "*GGMBP-v2[1].pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/agraw/AppData/Local/Microsoft/Windows/INetCache/IE/1ZCMR7HF/GGMBP-v2[1].pdf"
+         } ],
+         "date_added": "13344795449933696",
+         "date_last_used": "0",
+         "date_modified": "13339840100572269",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13344795449933699",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13344795449933704",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCBH/FOOLAQAAEgAgASoYckhFaWpjaXRwY0dBV01zdXdmTXozdz09oAYMEqsBCCESpgEKHHUzbFgvV2IyK1llSFBmZDZQL1d1OXNDczBHTT0SJGFlMTcxNGQ3LTEwNzAtNGJiYi1hYzkyLTNiMGMzOWE4NGUzYhgAIAAoADCios3ukDE4uK/N7pAxQLivze6QMUocZ1lOUUdxem94OGhoUnZUZjA1MTJRc0xSNmdJPVoiIiD///+oMnh4bWRZN0tCUWdMMklncUR4QVk2SjVtcnlVPWWqTmr1EqoBCCASpQEKHElsa2dza2s3QkU1V05DNnAzNk10ajBHYTRVdz0SJDQ5Nzc5ZmVkLWI2NDUtNGRiNi04ZWE4LWFlMDZlNGY1YjJlYRgAIAAoADChos3ukDE4nK/N7pAxQJyvze6QMUocN3p6bHd1MW5TUkN6L01maWFDN0tsakVYWTMwPVohIh////9RbTZPSWlKRU9RVlQ2Rm1FUjlKUWpQVHVFcjA9ZdcgrJISqgEIHxKlAQocN3F0RzNsRmV3Y2FBa3RYNEk1MG4yNE1zT3RVPRIkMGU2MzU0MWEtZjg3MS00NmFlLWEzYmItMjcxMTM1ZGQ5NjUyGAAgACgAMJ+ize6QMTjkrs3ukDFA5K7N7pAxShwrM2xBanE5RHJ1d0JrMmtzamNLaXdla255TVE9WiEiH////mhEZXBGSEFsUG5Cd0NpTDVRNFBCb3NGN2cyST1lr5bm7hKqAQgdEqUBChxEMWV0NVJQRnZIa2ovcVZ6WSs2ZkR3ZGwzMlk9EiQwY2FmNmY2Ni02YjVjLTQ0M2YtOGM3OS1jOTI0OGY0MDc1ZGQYACAAKAAwo6LN7pAxONSvze6QMUDUr83ukDFKHDJ6OHN3ZUJQRW5sOWIyQ29qaTF0U3BXM2Z1Yz1aISIf///6KzN3Smw4OUU5TEdFRVE5RHQ0NEg2ZEtCaWJnPWV3EsJWEqoBCBsSpQEKHDhZQXFEUE5uSHVBSkpDcTJ6SlkwQlZ2emhUMD0SJDBjYjdjOWJmLTJhMDMtNGM0Yy04MmY3LTczMjU0N2YzMmNhYhgAIAAoADCgos3ukDE4/67N7pAxQP+uze6QMUocaTdDWmRFSTl6cUpvUXFiZHhsTThqYW80dlBRPVohIh///+hrdjNRQzd0TndzVjNzYmJyem5ORk1qdHVXWFE9Zb6XbOUSqgEIHBKlAQocRDV3Tkl0T1VCM1pxOHdDaklKYnBoc3JNN0RvPRIkMjMzMGExYzgtNmQ4MS00MDRkLThmMDYtNTBiMjk0MjFmYWVhGAAgACgAMJuize6QMTjnqc3ukDFA56nN7pAxShxoRXhkNjlXRFFzRmZyS0dndWdGcDFrNS9vT289WiEiH///9G5vYTYvZzVOeGgwYU9UcUx4SnVpd3RUOEY2TT1l1vlD9BKqAQgZEqUBChxRZk9tc21QNTE4Q2FvY0FrUVpCS0lQMXVYTmM9EiQyODc5NzIwYi0zM2VhLTQ3YTQtYTkyOC1lYzE1ZjNlYzIzMzUYACAAKAAwnqLN7pAxOLeqze6QMUC3qs3ukDFKHHdkbkc0RGFXZjFzaktoelc1R0VlcDhMWEhoQT1aISIf//+gNDdTd1BOMWhTelhjb3VuRWUxN0FZTFN6UFhVPWWzAfKzEqgBCBASowEKHGcyVVNzbytSR2lwVy9ydmNTRkswUmJZSUJKdz0SJDQyYTQ3MjU1LTM4MWItNDNlZS05NzdlLTg2YzA5Yzg4MzNlYRgAIAAoADCJ8fKc0jA43uDynNIwQN7g8pzSMEocTUlXQ09BbS91TnFBMkF3VGNGMWM5ai84NmY4PVofIh3/QVNmRUhlTVFPZVYxcnpzZThRSUNxcERHODhzPWVPF+zXEqkBCBYSpAEKHFUrZHNlYnVrdWRwZ3p0K0Y3bGJ4L3ZqRVBraz0SJDRhYmUyM2E3LWEwOTYtNDg0Mi05MmUyLWM1YzJiNjljOGE0NRgAIAAoADCdos3ukDE4narN7pAxQJ2qze6QMUocdlFxUFNzU1hSb1czc0RMblZiK2xBSWtsK2g4PVogIh7//VFXYSt6QW9mSngzcENaUlYvWHA2NnpZcldEVT1lWnnNbhKpAQgREqQBChxKc0wyOE5vUWV1U2lab09BKy9yRERIWjJabUk9EiQxNjRmOWE1Yi0wZmI1LTRjMTAtYTVlMy04MmY3NWQ0ZTA4NzQYACAAKAAwh/HynNIwONLf8pzSMEDS3/Kc0jBKHERBYXc0c1g0SEx6aGs1c29Danh3dHBNeVg4WT1aICIe/6A0b21uSVpEL1NXWGpZL3RwZjliNjlVVXhKa1U9ZbHgw/cSqAEIDxKjAQocb3IyU2tWWmpJWWd3QTdnTkpvU1QrYXEyZkFjPRIkZjA4NTQ0ZmMtZTMxYS00Y2I5LTlkMjAtZjEzNzY2NmNlYTdhGAAgACgAMIjx8pzSMDjx3/Kc0jBA8d/ynNIwShxtNlJiZXZHK21TVXArU01yS2lsR3hzY1RjQlk9Wh8iHf5IekJ1a0pEbkJuZUY2V1k0eFFlcVNBWktuZmc9ZZe9ml4SqAEICxKjAQocWHRkUjRCdmlsNUw0VGErdVphbG9GSy8xSmpzPRIkYzBlOWZjMjQtZjU4Yy00YTFmLWI0ODgtZWYyMjkzYTJkZTE2GAAgACgAMJLf8pzSMDju4PKc0jBA7uDynNIwShxvMU9lVnhSTFR3bExqdmZXRHh3ektOMGFsT0E9Wh8iHe4xRERGZ1Vxc1FqVWp6czlBODhNNW81Yk5odnM9ZQAAAAASpwEICBKiAQocdDl3K0Zxb2lNVXYrUVVZdGh5Ull0djlTNC84PRIkMzNiODZmOTUtNGRlNi00YTBhLWJmMjAtODM1N2I3OTI1ZTk2GAAgAigCMMih1Ji+MTis4fKc0jBA4bjUmL4xShxzMTF2ZFlCYUwzbUY2alZNZjU3SUZVMEtIVzQ9Wh4iHHBRRFd1VENyVUR4RXM0aTJJTE9RZUxpYW1Jcz1lwculyhKoAQgKEqMBChxSWkdaSkVJVEE5UzZ1MklYcml0bU16T09aelk9EiQ2ODVkZTkxMC0xODg1LTRhYWEtYTc1OS05ZDJiMDlhMDcxMzUYACACKAIwx6HUmL4xOLni8pzSMEDjuNSYvjFKHE1yK1VzazdZVGV0ZStnK05YRU53b3lBam9yRT1aHyId3CtsSnJjSHNtUGIrODdKd2krdnJsNUVMaGtCTT1lpzu81BKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQyNzFlODY1Ny05MDZmLTU2ODItYTI0NC1mOWNiZWQ2OTc4NzIYACAAKAAw6/Ov9qcwOJ+5lNPtL0CfuZTT7S9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqgBCA4SowEKHG9odXVrSzdVaUNRRWVHdDBXRnZGQmZIUWtZMD0SJDNkMTkwZGRjLWRjZGItNDVhOS1iZDA0LWUxZTgyNDRhMzQ0MhgAIAAoADCT3/Kc0jA4jeHynNIwQI3h8pzSMEocS3phTXE1dlcreFdJeFc5d2dXV0NtalBqcnFJPVofIh39RXllSW8wdHNRRDJBbWZSOWdkUTRLRDQ4bUtRPWUAAAAAEqgBCAkSowEKHC9wR0tCZVh1ODlQY25US0F4RlNwRnhKWi8zcz0SJGE0OTU0ZGIxLTBhNTktNDZkZC1hYmY2LTgzZjQ3ZDEwZGQ2ORgAIAIoAjDGodSYvjE4v+DynNIwQOK41Ji+MUoccTNPaGt3WnJ4RlIranZCRG5WUnRMcVJ6VWc0PVofIh24aC9qYWs3Q0ZlQXZvTE53SGVWdjM4Q3JVSmhnPWWLoIzREqkBCBUSpAEKHDlTdkhKNTRxd3lzOEFDa3lKT0pKY2tCTUZMZz0SJDNkZWVkNjQ2LTdjMmEtNDVmOC1iNDUxLTc2NDFkYTZhMzVjNxgAIAAoADDQuJ6w7TA4/biesO0wQP24nrDtMEocTEt2aFlUV1pGUTMvcDZNM3FEcHZ5ZXVTRXVjPVogIh7/+itBa29OdTNDa0dBWmhoeTduTmEraXZ6bUhoND1ld3BsoxKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ1NTk4ZTVhMS1kN2YyLTU1N2MtYWNkYy1hY2VjZmQ5MmViYzcYACAAKAAw6/Ov9qcwOK65lNPtL0CuuZTT7S9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqoBCBoSpQEKHEFPQ0dvb0VNdk1WQy9ZSW5Ka0lQdExHaEhWUT0SJGRiNmY3OGRlLTViM2QtNDBjZi05OGJiLTA4NGU1MjE5MmU4ZBgAIAAoADCcos3ukDE4garN7pAxQIGqze6QMUocLzMxamdEYWJJakNleGx5NmlkVmxjSGQ2b2pVPVohIh///9AwVUdiZHlvOGZTaFVLenlqd2ZIcmoyVmFqSjA9ZcN+NtQSqQEIFBKkAQocc29CZm9iVFRxY1lDWTVia3Zjejh5eUdhL1pBPRIkODE0YmYxMDItNjAxYi00NjYyLWE2NDItODk1ZDIwMDhhZjVjGAAgACgAMLr80vTUMDjo/NL01DBA6PzS9NQwShxMaTNCdVVjaTNvYmI4MEJoYnJqdzRzempMbE09WiAiHv/0OGtKMjNQN2VmNWxZdWlxTUtLZTZ2dkhZcnA0PWVU1WA+EqkBCBMSpAEKHEMzSTdCQVY5UENVTWlYSFRqb0lMQ2FINE9XYz0SJDlkODYzMzc5LWE1NWQtNDNlZi1iNWI0LWQ3Y2ZhNzExYTZkORgAIAAoADCK8fKc0jA4vOHynNIwQLzh8pzSMEocWi9KZVk3Uy9IWkt4M3RabFR6LzB5YVFQRjZ3PVogIh7/6E1LTWFpS2VYZzBZajRGTS94V050OEhRMG1oVT1l9QcvLBKrAQgiEqYBChxabkJIaURPMUpBb3FhQTFHVUkyUTdyUjdBYXM9EiQ4NGRlODJjZi1lZDY0LTQ1NzYtYTE5Mi04NWZjZTYwYzY5NzcYACAAKAAwjqeP7asxOPaoj+2rMUD2qI/tqzFKHHNvRGdqN1lLMHJmc0F5cDA4ZEk2QmlOQ3huRT1aIiIg////1GFNWnJMa1I0YlBleUU0S0hkb0VTbEczVGg2VT1ld3BsoxKnAQgHEqIBChx3RkNqRitmclc3a2NIYUsyVW5GR3VrZ09NbjQ9EiQ5ZDNhOTQ1NC1lYzJiLTQ1MDQtOTY5MS05ODA3ZjRkYTM4MmQYACACKAIwxaHUmL4xOLu4zYGFMEDhuNSYvjFKHHgvQzgzdjJBeUlQaXFVZEh0UGozR2NXd2dvOD1aHiIcT0F1dWpwSnJMZXR2c2FvT2J4dVlFVld6UVJrPWWkCYdfEqkBCBISpAEKHFZWdm1HQUFrSE13NjI1akI3Mm5vTEx5ajYraz0SJDU1MDFmMmU4LWY4MzAtNDFlMS1iYjk3LTk0YzIwOTRjZTA0YhgAIAAoADCL8fKc0jA4qeLynNIwQKni8pzSMEocc2pNa29BNDFzMHBlK3R4R21uRkMwL1hReTQ4PVogIh7/0DJrSW1QL0YrZlBOR0lQSGc5SitRYjlyMG5NST1lbY501hKoAQgNEqMBChxWK21zdm9STXpyVmdxOHVkcys2TENUMjhOK3c9EiQyMGRhMWNkZi02MWFkLTRhOGQtYTA2NC1lMjViMjdiYjQyYjEYACAAKAAwmt/ynNIwOMni8pzSMEDJ4vKc0jBKHHdWYmFxd21mR2Y5OWZ2SU5YSWppTHBMdjJHMD1aHyId+3BGSmZIUVVZMDJxOFpuTmNGRWhrcThrZSt1OD1lAAAAABKpAQgYEqQBChwycGJnZDY4TzRTVXY5cVRVZmJPcUI1UWtGcnM9EiQzOTEyNDdjMC03MWY3LTRmMDEtYmRkMy03ZGJlMWUxYWYyNjEYACAAKAAwpKLN7pAxOPKvze6QMUDyr83ukDFKHHdpOVpFWWtlQ0FUdFBXaDkzalRJNUVPV1VFdz1aICIe//9BNkE0c1BDRHN6bmpNdmdHNXVlMDRvaE15QWs9Ze2Sc+QSqAEIDBKjAQocU0pPdVBqOTJubmNaK0tuVkg5dExqcE9ob01JPRIkMmY2NzBhNDgtMGYwOC00ODZiLTlmYjItYjRmZjEwYmE0NjZkGAAgAigCMMSh1Ji+MTjb4fKc0jBA5LjUmL4xShxmeWJKbU5RK3h5TnRsNVdEYzJEOVFqUmp3UEE9Wh8iHfczejcvVFhqdlFsVWtoMGcwSVhiRmhtOHlTc0k9ZcN+NtQSqQEIFxKkAQocY1VNcm5lVnZaWTZPYVVKcmhrMk9wUXM3bkprPRIkMmYzOTkwMzQtNDBmZi00YjA1LWFmNDYtNjlkYWQxZmYzY2FmGAAgACgAMJqize6QMTjEqc3ukDFAxKnN7pAxShxPc1VPaDdhMWcraU9ra2lmejk1L1dkbjdEZHM9WiAiHv/+aDdPeHRYbDlyNG8xclpoVUJXWElrTjN0RHBjPWVJMoFlEqoBCB4SpQEKHEVMSEx6MHpCOG1wMlRrVFYzcGJJVlpIKzhyOD0SJDBlMjUyYmJiLTcxZmUtNGNlMS05MDQzLTU1MzMxNTU5Y2IxYRgAIAAoADCZos3ukDE4qqnN7pAxQKqpze6QMUocV244ZzV0R1U4ZnFWeFBzdHV6cDVPTnZyWXZFPVohIh////1pVnJoRmV1b29CdTl1NVVCdyt1SHhvL1JvODA9ZaHKxT8SiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZTViNWNiYTYtYzFmYS01MWIxLTgyMWItNTdiYjgzMjA4ODgzGAAgACgAMOvzr/anMDjNuZTT7S9AzbmU0+0vShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}
