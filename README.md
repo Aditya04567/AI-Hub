@@ -79,7 +79,7 @@ Follow these steps to get the AI Hub app up and running on your local machine.
 2. Change into the project directory:
 
    ```bash
-   cd TechAdi
+   cd AI-HUB
    ```
 
 3. Run the app:
