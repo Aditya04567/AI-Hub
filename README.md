@@ -1,4 +1,4 @@
-# (TechAdi) AI Hub Flutter App
+#  AI Hub App
 
 Welcome to the AI Hub Flutter application repository! This mobile app is designed to be a comprehensive platform for exploring AI tools, engaging in community discussions, and performing calculations with a built-in calculator. The app features user authentication, a slider screen showcasing AI tools, and various pages for seamless navigation.
 
