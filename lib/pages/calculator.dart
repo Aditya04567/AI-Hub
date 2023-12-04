@@ -202,6 +202,8 @@ class _CalculatorPageState extends State<Calculator> {
   void equalPressed() {
     String finaluserinput = userInput;
     finaluserinput = userInput.replaceAll('x', '*');
+    finaluserinput = userInput.replaceAll('%', '/100*');
+
 
     Parser p = Parser();
     Expression exp = p.parse(finaluserinput);
@@ -223,20 +225,28 @@ class MyButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return GestureDetector(
-      onTap: buttontapped,
-      child: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: ClipRRect(
-          borderRadius: BorderRadius.circular(50),
-          child: Container(
-            color: color,
-            child: Center(
-              child: Text(
-                buttonText,
-                style: TextStyle(
-                  color: textColor,
-                  fontSize: 25,
+    return Container(
+      margin: EdgeInsets.all(5),
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(50),
+        border: Border.all(width: 1.0, color: Colors.black)
+        
+      ),
+      child: GestureDetector(
+        onTap: buttontapped,
+        child: Padding(
+          padding: const EdgeInsets.all(0),
+          child: ClipRRect(
+            borderRadius: BorderRadius.circular(50),
+            child: Container(
+              color: color,
+              child: Center(
+                child: Text(
+                  buttonText,
+                  style: TextStyle(
+                    color: textColor,
+                    fontSize: 25,
+                  ),
                 ),
               ),
             ),

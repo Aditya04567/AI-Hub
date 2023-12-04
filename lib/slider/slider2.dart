@@ -85,10 +85,17 @@ class _SliderscreenState extends State<Sliderscreen> {
                         color: Color(0xFF202020),
                       ),
                     ),
-                    Icon(
-                      Icons.settings,
-                      color: Color(0xFF202020),
-                      size: 30,
+                    InkWell(
+                      onTap: () {
+                        setState(() {
+                          
+                        });
+                      },
+                      child: Icon(
+                        Icons.settings,
+                        color: Color(0xFF202020),
+                        size: 30,
+                      ),
                     ),
                   ],
                 ),
