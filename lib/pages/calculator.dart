@@ -202,7 +202,8 @@ class _CalculatorPageState extends State<Calculator> {
   void equalPressed() {
     String finaluserinput = userInput;
     finaluserinput = userInput.replaceAll('x', '*');
-    finaluserinput = userInput.replaceAll('%', '/100*');
+    finaluserinput = userInput.replaceAll('%', '/ 100 *');
+    
 
 
     Parser p = Parser();
@@ -211,7 +212,11 @@ class _CalculatorPageState extends State<Calculator> {
     double eval = exp.evaluate(EvaluationType.REAL, cm);
 
     answer = eval.toString();
+    if (answer.endsWith(".0")) {
+      answer = answer.substring(0, answer.length - 2);
+    }
   }
+  
 }
 
 class MyButton extends StatelessWidget {
